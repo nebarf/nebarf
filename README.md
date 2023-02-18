@@ -15,7 +15,7 @@
 
 💻 Senior JS/TS Software Engineer
 
-🔭 Currently working at [Facile.it](https://www.facile.it/)
+🔭 Currently working @ [<code><img height="20" alt="Facile.it website" src="https://raw.githubusercontent.com/nebarf/nebarf/main/assets/facile.it-logo.svg" style="position: relative; bottom: -20px;" /></code>](https://www.facile.it/)
 
 🌱 OSS contributor
 
