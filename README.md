@@ -33,6 +33,7 @@
 <code><img height="20" alt="Fastify logo" src="https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white" /></code>
 <code><img height="20" alt="Express.js logo" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" /></code>
 <code><img height="20" alt="NestJS logo" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" /></code>
+<code><img height="20" alt="Rust logo" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /></code>
 
 <br>
 <br>
